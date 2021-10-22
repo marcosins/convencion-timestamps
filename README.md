@@ -1,4 +1,4 @@
-<img width="200" align="center" src="logo_convencion_main.svg"> <img width="200" align="center" src="logo_convencion_second.svg">
+<img width="200" align="center" src="logo_convencion_main.svg">
 
 ---
 # 🇨🇱 CONVENCIÓN MARCAS DE TIEMPO 🇨🇱
@@ -33,3 +33,6 @@ Esfuerzo colectivo para poner marcas de tiempo en todos los videos de youtube de
 - Youtube, Sala 14: https://youtube.com/channel/UCxAECnUReRnEwkFThbjtH2Q
 - Youtube, Sala 15: https://youtube.com/channel/UCTGMQgIdFvz3qlD9mKb8v9w
 - Streaming directo: https://convencion.tv
+
+---
+<img width="200" align="center" src="logo_convencion_second.svg">
