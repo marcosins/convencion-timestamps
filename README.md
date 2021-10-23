@@ -5,6 +5,17 @@
 
 Esfuerzo colectivo para poner marcas de tiempo en todos los videos de youtube de la Convención Constitucional chilena.
 
+## Sesiones
+
+### Pleno
+Corresponde a los 155 convencionales, la secretaría y la mesa técnica de apoyo
+
+### Comisiones
+Corresponde a las comisiones temáticas que debatiran las normas constitucionales
+
+### Subcomisiones
+
+---
 ## Información de la Convención
 ### Cuentas oficiales
 - Sitio Web: https://www.chileconvencion.cl
