@@ -1,6 +1,8 @@
 # SESIONES DEL PLENO
 
-El pleno de la convención constitucional es el conjunto de los 155 convencionales, la secretaría y la mesa técnica de apoyo.
+El Pleno de la Convención Constitucional está integrado por la totalidad de las y los convencionales constituyentes en ejercicio. Es presidido por su Presidenta o Presidente, o por la respectiva Vicepresidencia.
+
+Para sesionar, requiere de la asistencia, presencial o telemática, de la mitad de las y los convencionales constituyentes en ejercicio.
 
 # SESIONES
 
