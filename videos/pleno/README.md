@@ -10,3 +10,4 @@ Para sesionar, requiere de la asistencia, presencial o telemática, de la mitad 
 - [Sesión Nº 32, 20 Octubre de 2021](32-20211020.md)
 - [Sesión Nº 33, 21 Octubre de 2021](33-20211021.md)
 - [Sesión Nº 34, 22 Octubre de 2021](34-20211022.md)
+- [Sesión Nº 35, 26 Octubre de 2021](35-20211026.md)
