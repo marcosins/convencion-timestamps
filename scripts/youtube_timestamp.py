@@ -42,10 +42,10 @@ for sesion in glob(f'{path}/*.md'):
         # si hay tokens despues del split
         if len(token):  
           t = None
-          # timestamp sin segundos
+          # timestamp sin horas
           if len(token) == 2:
             t = 60*int(token[0])+int(token[1])
-          # timestamp con segundos
+          # timestamp con horas
           elif len(token) == 3:
             t = 3600*int(token[0]) + 60*int(token[1]) + int(token[2])
           
