@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# ejecutar desde la raiz del proyecto ./scripts/youtube_timestamp.py
 import time
 
 from glob import glob
