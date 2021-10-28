@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import time
 
 from glob import glob
@@ -8,7 +9,6 @@ for sesion in glob(f'{path}/*.md'):
   if sesion.split('/')[-1] == 'README.md':
     continue
 
-  print(sesion)
   with open(sesion, 'r') as f:
     for l in f.readlines():
       try:
