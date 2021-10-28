@@ -6,7 +6,7 @@ from glob import glob
 path = 'videos/pleno'
 
 # recorrer los archivos .md dentro de del path
-for sesion in glob(f'{path}/*.md'):
+for sesion in sorted(glob(f'{path}/*.md')):
   # nuevo archivo, aun no hay link de youtube
   youtube_link = None
   # saltar el archivo README.md
