@@ -19,20 +19,13 @@ for sesion in sorted(glob(f'{path}/*.md')):
     print(f'\n\n[{sesion}]')
     # recorrer linea a linea
     for l in f.readlines():
-
-      # si la linea parte con un comentario, pasar a la proxima linea
-      try:
-        if '#' == l.strip()[0]:
-          continue
-      except:
-        pass
-
       # si la linea tiene este texto, es el link de youtube
       # guardar el link y pasar a la proxima linea
       if 'https://youtu.be' in l:
         youtube_link = l.split()[1]
-        continue
 
+      # al partir cada linea, borrar el calculo de tiempo
+      t = None
       # separar la linea en tokens
       token = l.split()
       # si hay tokens despues del split
@@ -49,6 +42,11 @@ for sesion in sorted(glob(f'{path}/*.md')):
           elif len(token) == 3:
             t = 3600*int(token[0]) + 60*int(token[1]) + int(token[2])
           
-          if t:
-            print(f'{l.strip()}: {youtube_link}?t={t}')
+
+      # si en la linea obtuve un calculo de tiempo, agrego el link.
+      # si no imprimo la misma linea
+      if t:
+        print(f'{l.strip()}: {youtube_link}?t={t}')
+      else:
+        print(l.strip())
  
