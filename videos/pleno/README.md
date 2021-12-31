@@ -1,4 +1,4 @@
-# SESIONES DEL PLENO
+# PLENO
 
 El Pleno de la Convención Constitucional está integrado por la totalidad de las y los convencionales constituyentes en ejercicio. Es presidido por su Presidenta o Presidente, o por la respectiva Vicepresidencia.
 
@@ -16,3 +16,4 @@ Para sesionar, requiere de la asistencia, presencial o telemática, de la mitad 
 
 ## Noviembre 2021
 - [Sesión Nº 37, 3 Noviembre de 2021](37-20211103.md)
+- [Sesión Nº 38, 10 Noviembre de 2021](38-20211110.md)
